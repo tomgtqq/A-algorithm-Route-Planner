@@ -1,7 +1,7 @@
 # A* Route Planner
 
 We started on start state and then we start expanding out from there looking at different paths. And what we end up doing is expanding in terms of contours like
-on a topological map Where first we expand out to a certain distance then to a farther distance and then to a farther distance then to a farther distance. at some point we meet up with the goal. 
+on a topological map Where first we expand out to a certain distance then to a farther distance and then to a farther distance then to a farther distance. at some point we meet up with the goal. That is Uniform best cost algorithm.
 
 - ![uniform_best_cost.gif](src/uniform_best_cost.gif)
 
