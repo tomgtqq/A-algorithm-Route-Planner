@@ -30,7 +30,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Tom** - *Fullstack egineer* - [github profile](https://github.com/tomgtqq)
+* **Tom ge** - *Fullstack egineer* - [github profile](https://github.com/tomgtqq)
 
 ## License
 
